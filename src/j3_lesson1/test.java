@@ -1,9 +1,9 @@
-package lesson1;
+package j3_lesson1;
 
-import lesson1.BigTask.Apple;
-import lesson1.BigTask.Box;
-import lesson1.BigTask.Fruit;
-import lesson1.BigTask.Orange;
+import j3_lesson1.BigTask.Apple;
+import j3_lesson1.BigTask.Box;
+import j3_lesson1.BigTask.Fruit;
+import j3_lesson1.BigTask.Orange;
 
 import java.util.ArrayList;
 

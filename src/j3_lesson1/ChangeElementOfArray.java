@@ -1,4 +1,4 @@
-package lesson1;
+package j3_lesson1;
 
 public class ChangeElementOfArray <T> {
 
