@@ -1,4 +1,4 @@
-package lesson1.BigTask;
+package j3_lesson1.BigTask;
 
 import java.util.ArrayList;
 import java.util.List;

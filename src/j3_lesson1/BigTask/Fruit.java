@@ -1,4 +1,4 @@
-package lesson1.BigTask;
+package j3_lesson1.BigTask;
 
 abstract public class Fruit {
     private float weight = 1.0f;
